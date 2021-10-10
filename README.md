@@ -1,5 +1,5 @@
 Hey there, I'm @fetzu ! </br>
-Sometimes a **make** stuff, other times I **contribute** to other's projects, but I mostly **postpone** and **wander around**.
+Sometimes I **make** stuff, other times I **contribute** to other's projects, but I mostly **postpone** and **wander around**.
 
 You can find me and reach me on [fetzu.ch](https://fetzu.ch).
 
